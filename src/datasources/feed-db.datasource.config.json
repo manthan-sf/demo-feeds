@@ -1,0 +1,6 @@
+{
+  "name": "feedDB",
+  "connector": "memory",
+  "localStorage": "",
+  "file": ""
+}
